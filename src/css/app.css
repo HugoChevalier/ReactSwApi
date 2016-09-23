@@ -1,0 +1,20 @@
+.btn{
+
+    width: 20%;
+    display: block;
+    margin: auto;
+}
+
+.collection{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.nav-wrapper{
+    background-image: url(../img/bg.jpg);
+}
+
+.navLink{
+    color:#FFE81F;
+}
